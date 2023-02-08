@@ -1,0 +1,12 @@
+.first{
+    display: flex;
+    margin-top: 5mm;
+    margin-left: 2mm;
+}
+.pic{
+    height: 30px;
+    width: 30px;
+}
+.form-control{
+    border-radius: 5%;
+}

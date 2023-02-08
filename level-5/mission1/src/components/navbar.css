@@ -1,0 +1,18 @@
+.navBar{
+    height: px;
+     display: flex;
+     border: black;
+     background-color:  #005594;
+     color: white;
+}
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative; 
+}
+.abc{
+    height: 30px;
+    width: 30px;
+    margin-left: 2px;
+    margin-top: 2px;
+}

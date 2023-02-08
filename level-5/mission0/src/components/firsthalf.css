@@ -1,0 +1,25 @@
+.b{
+    background-image: url("https://findourbusiness.ca/wp-content/uploads/Macpcslide-1.png");
+    color: #6c6c6c;
+    font-size: 30px;
+    height: 600px;
+    background-size: 100% 100%;
+
+    
+}
+.text{
+    width: 500px;
+    margin-left: 480px;
+    margin-top: 50px;
+ background-color: #f9f6f9;
+ color: black;
+ text-align: center;
+}
+.text_area{
+    margin-left: 580px;
+
+    background-color: black;
+    color: white;
+    font-size:large;
+    width: 240px;
+}

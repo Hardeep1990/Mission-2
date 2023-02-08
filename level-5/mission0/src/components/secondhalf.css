@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10mm;
+    margin-bottom: 10mm;
+    margin-left: 8mm;
+    margin-right: 0mm;
+    padding: 10mm 5mm;
+}
+.img_size{
+height: 300px;
+width: 300px;
+}
+.style{
+    margin-left: 30mm;
+    margin-right: 10mm ;
+    background-color: whitesmoke;
+}
+.bold{
+    text-align: center;
+}
+.btn_style{
+    background-color:  rgb(202, 221, 226);
+}
+.btn_style:hover{
+    background-color: black;
+    color: white;
+}
