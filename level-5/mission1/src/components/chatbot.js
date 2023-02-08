@@ -6,7 +6,7 @@ function ChatBot() {
         className="form"
         id="myInput"
         type="text"
-        placeholder="typing.."
+        placeholder="typing.....                                    "
       ></input>
     </div>
   );

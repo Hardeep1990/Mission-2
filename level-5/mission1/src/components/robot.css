@@ -1,6 +1,6 @@
 .first{
     display: flex;
-    margin-top: 5mm;
+    margin-top: 13mm;
     margin-left: 2mm;
 }
 .pic{
@@ -9,4 +9,5 @@
 }
 .form-control{
     border-radius: 5%;
+    color:  #005594;
 }

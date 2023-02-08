@@ -1,9 +1,10 @@
 .chat{
     height: 18cm;
     width: 15cm;
-    margin-top: 3.8cm;
+    margin-top: 1.5cm;
 }
 .form{
     width: 14.8cm;
     height: 7mm;
+    text-align: right;
 }
