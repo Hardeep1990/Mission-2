@@ -1,0 +1,39 @@
+.navBar{
+    height: 10px;
+     display: flex;
+     border: black;
+     background-color: white;
+     margin-top: 4px;
+}
+.btn_btn{
+margin-left: 1100px;
+}
+.btn{
+    padding: 5px 10px;
+    margin: 1px;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: rgb(115, 157, 173);
+color: azure;
+}
+.abc{
+    height: 30px;
+    width: 40px;
+}
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative; 
+}
+.style{
+    background-color: black;
+    color: azure;
+    padding: 5px 10px;
+    margin: 1px;
+    font-size: 15px;
+}
+.style:hover{
+    background-color: azure;
+    color: black;
+}
