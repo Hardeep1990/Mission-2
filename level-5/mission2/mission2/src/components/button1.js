@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./button1.css";
 
-const BING_API_KEY = "2322dc3ef928451a92856b1651cd0e1c";
+const BING_API_KEY = "...............................";
 
 function getImageSearchResults(searchTerm, count) {
   return axios
