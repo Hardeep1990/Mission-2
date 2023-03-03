@@ -1,4 +1,4 @@
-const car = require("../src/Car");
+const car = require("../Car");
 describe("Quote", () => {
   it("should return the car value", () => {
     const model = "Civic";
@@ -36,3 +36,4 @@ describe("Quote", () => {
     expect(res).toBe(11623);
   });
 });
+//unit test file
